@@ -1,0 +1,74 @@
+[
+  {
+    "title": "React Movie API App",
+    "imageSrc": "projects/react-movie-app.jpeg",
+    "description": "This application displays a carousel of movies, along with their trailers, pictures, and user reviews. The application also connects to a custom Spring boot API to interact with a MongoDB database containing the movie data.",
+    "skills": ["React", "Material UI", "JavaScript", "REST API"],
+    "demo": "https://react-movie-api-app.vercel.app/",
+    "source": "https://github.com/justinpope99/React-Movie-API-App"
+  },
+  {
+    "title": "Java Spring Boot Movie API",
+    "imageSrc": "projects/java-spring-boot-api.png",
+    "description": "This is a Spring Boot API written in Java that connects to a MongoDB database containing movies. It is deployed using a Dockerfile",
+    "skills": ["Java", "Spring Boot", "Docker", "MongoDB", "Web Service"],
+    "demo": "https://expensive-ellissa-justin-pope-f21c5acc.koyeb.app/api/v1/movies",
+    "source": "https://github.com/justinpope99/Java-Spring-Boot-Movie-API"
+  },
+  {
+    "title": "Angular Homes App",
+    "imageSrc": "projects/angular-homes.jpeg",
+    "description": "This is an Angular application that lists houses for rent and shows the details of individual houses.",
+    "skills": ["Angular", "TypeScript", "JavaScript"],
+    "demo": "https://angular-homes-app-two.vercel.app/",
+    "source": "https://github.com/justinpope99/Angular-Homes-App-2"
+  },
+  {
+    "title": "React Quiz API App",
+    "imageSrc": "projects/react-quiz-app.png",
+    "description": "This is a trivia quiz app made using React, and the Trivia API. It asks the user 20 trivia questions related to Computer Science.",
+    "skills": ["React", "TypeScript", "JavaScript", "REST API"],
+    "demo": "https://react-quiz-api-theta.vercel.app/",
+    "source": "https://github.com/justinpope99/React-Quiz-API"
+  },
+  {
+    "title": "JavaScript Calculator",
+    "imageSrc": "projects/javascript-calculator.png",
+    "description": "Calculator App using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://justinpope99.github.io/JavaScript-Calculator/",
+    "source": "https://github.com/justinpope99/JavaScript-Calculator"
+  },
+  {
+    "title": "Bootstrap Portfolio Website",
+    "imageSrc": "projects/bootstrap-portfolio.jpeg",
+    "description": "This is a Portfolio Website that I created using HTML, CSS, and Bootstrap.",
+    "skills": ["HTML", "CSS", "Bootstrap"],
+    "demo": "https://justinpope99.github.io/Bootstrap-Portfolio/",
+    "source": "https://github.com/justinpope99/Bootstrap-Portfolio"
+  },
+  {
+    "title": "Java College Enrollment Website",
+    "imageSrc": "projects/java-code.png",
+    "description": "A web application that uses the MVC architecture, HTML, Java Server Pages, Java (Web Servlets), and SQL. The application connects to a database through a student ID and allows you to add or drop a course for that student using SQL queries.",
+    "skills": ["HTML", "CSS", "JSP", "Java", "SQL", "MVC"],
+    "demo": "",
+    "source": "https://github.com/justinpope99/java-web-application"
+  },
+  {
+    "title": "JavaFX College Enrollment Application",
+    "imageSrc": "projects/java-code.png",
+    "description": "A database application that uses Java and JavaFX, and SQL. The application connects to a database through a student ID and allows you to add or drop a course for that student using SQL queries.",
+    "skills": ["Java", "JavaFX", "SQL"],
+    "demo": "",
+    "source": "https://github.com/justinpope99/javafx-database-application"
+  },
+  {
+    "title": "PHP Movie List Application",
+    "imageSrc": "projects/web-browser.png",
+    "description": "A website created using HTML, JavaScript, jQuery, Ajax, CSV, and PHP. The site accesses a CSV file to get a list of movies comprised of their titles, directors, and release date and display them onto the page if a user selects them.",
+    "skills": ["HTML", "JavaScript", "jQuery", "Ajax", "PHP", "CSV"],
+    "demo": "",
+    "source": "https://github.com/justinpope99/website-javascript-php"
+  }
+]

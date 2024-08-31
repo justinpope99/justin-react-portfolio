@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Research Analyst Intern",
+    "organization": "VergenceXR",
+    "startDate": "June, 2024",
+    "endDate": "September, 2024",
+    "experiences": [
+        "Collaborated with other developers on design, coding, and debugging tasks by utilizing a version control system.",
+        "Assisted with data modeling, database design, and database implementation.",
+        "Worked on front-end development tasks to create an interactive and responsive user interface.",
+        "Participated in weekly meetings to discuss progress on tasks assigned, and used Asana to track deliverables.",
+        "Implemented OpenAI's ChatGPT API to connect to an application and use AI to generate content based on user input."
+        ],
+    "imageSrc": "history/vergence-xr.png"
+  },
+  {
+    "role": "Full Stack Developer Intern",
+    "organization": "AlphaPrimeTech",
+    "startDate": "May, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+        "Developed, designed, and tested web applications using HTML, CSS, JavaScript, React, Angular, and Node.js.",
+        "Utilized version control systems such as Git to manage source code repositories, and used VS Code SCM.",
+        "Built responsive user interfaces utilizing modern front-end technologies such as React, Angular, Bootstrap, and Chakra UI.",
+        "Integrated third-party services into web applications using REST APIs and developed APIs using Spring Boot.",
+        "Deployed web applications and services using GitHub Pages, Vercel, Koyeb, Docker, MongoDB, and Firebase."
+        ],
+    "imageSrc": "history/alpha-prime-tech.png"
+  }
+]
