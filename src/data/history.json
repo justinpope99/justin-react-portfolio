@@ -20,9 +20,9 @@
     "endDate": "Aug, 2024",
     "experiences": [
         "Developed, designed, and tested web applications using HTML, CSS, JavaScript, React, Angular, and Node.js.",
-        "Utilized version control systems such as Git to manage source code repositories, and used VS Code SCM.",
-        "Built responsive user interfaces utilizing modern front-end technologies such as React, Angular, Bootstrap, and Chakra UI.",
-        "Integrated third-party services into web applications using REST APIs and developed APIs using Spring Boot.",
+        "Utilized version control systems such as Git to manage source code repositories and used SCM in Visual Studio Code.",
+        "Built responsive user interfaces utilizing modern front-end technologies such as React, Angular, Material UI, and Chakra UI.",
+        "Integrated third-party services into web applications using REST APIs and developed APIs using Spring Boot and IntelliJ.",
         "Deployed web applications and services using GitHub Pages, Vercel, Koyeb, Docker, MongoDB, and Firebase."
         ],
     "imageSrc": "history/alpha-prime-tech.png"
