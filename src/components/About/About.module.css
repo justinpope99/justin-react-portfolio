@@ -148,4 +148,11 @@
     .aboutItem p {
         font-size: 18px;
     }
+
+    .resumeLink a {
+    font-size: 22px;
+    text-decoration: none;
+    padding-top: 4px;
+    color: var(--color-light-blue);
+}
 }
