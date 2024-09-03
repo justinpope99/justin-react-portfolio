@@ -12,7 +12,7 @@
     "imageSrc": "projects/java-spring-boot-api.png",
     "description": "This is a Spring Boot API written in Java that connects to a MongoDB database containing movies. It is deployed using a Dockerfile",
     "skills": ["Java", "Spring Boot", "Docker", "MongoDB", "Web Service"],
-    "demo": "https://expensive-ellissa-justin-pope-f21c5acc.koyeb.app/api/v1/movies",
+    "demo": "https://golden-mignonne-justin-pope-beb53e33.koyeb.app/api/v1/movies",
     "source": "https://github.com/justinpope99/Java-Spring-Boot-Movie-API"
   },
   {
