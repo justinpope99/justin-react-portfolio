@@ -153,6 +153,22 @@ const About = () => {
             </div>
           </div>
         </li>
+        <li className={styles.aboutItem}>
+          <div className={styles.aboutIcon}>
+            <i className="bx bxl-javascript bx-tada"></i>
+          </div>
+          <div className={styles.aboutItemText}>
+            <h3>freeCodeCamp Certificate</h3>
+            <div className={styles.resumeLink}>
+              <a
+                href="https://www.freecodecamp.org/certification/fcc59e6e458-ef24-4cb0-b834-3c7e073cfc22/javascript-algorithms-and-data-structures"
+                target="_blank"
+              >
+                Certificate URL
+              </a>
+            </div>
+          </div>
+        </li>
       </ul>
     </section>
   );
