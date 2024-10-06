@@ -1,5 +1,13 @@
 [
   {
+    "title": "React Instagram Clone",
+    "imageSrc": "projects/react-instagram-clone.png",
+    "description": "This application functions as an Instagram clone. A user can create an account by signing up, follow other users, upload posts, comment on posts, and see suggested users, as well as search for users.",
+    "skills": ["React", "Chakra UI", "JavaScript", "Firebase"],
+    "demo": "https://justin-react-instagram-clone.vercel.app/",
+    "source": "https://github.com/justinpope99/React-Instagram-Clone"
+  },
+  {
     "title": "React Movie API App",
     "imageSrc": "projects/react-movie-app.jpeg",
     "description": "This application displays a carousel of movies, along with their trailers, pictures, and user reviews. The application also connects to a custom Spring boot API to interact with a MongoDB database containing the movie data.",
